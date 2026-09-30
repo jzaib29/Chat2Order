@@ -1,0 +1,4 @@
+customer,timestamp,sender,text
+Ayesha,2026-09-30 10:00,customer,"I'd like 12 chocolate cupcakes for 2026-10-03 at 16:00, pickup please."
+Ayesha,2026-09-30 10:03,customer,"Actually, make that 6."
+Bilal,2026-09-30 10:12,customer,"Can I order 4 chocolate cupcakes for 2026-10-03 at 16:00, pickup please?"
